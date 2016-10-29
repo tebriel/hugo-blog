@@ -1,0 +1,8 @@
+baseurl = "http://frodux.in/"
+title = "Chris' Tech Blog"
+languageCode = "en-us"
+author = "cmoultrie"
+[params]
+  logo      = "/images/me.jpg"
+  twitter   = "https://twitter.com/tebriel"
+  github    = "https://github.com/tebriel/"
