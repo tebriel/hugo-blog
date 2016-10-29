@@ -1,7 +1,7 @@
 +++
 title = "logstash config file organization"
-draft = true
-date = "2015-03-10T19:26:55-04:00"
+draft = false
+date = "2016-10-29T16:35:56-04:00"
 
 +++
 
